@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "url": "https://raw.githubusercontent.com/tuusuario/tu_repo/main/firmware/firmware.bin",
+  "url": "https://raw.githubusercontent.com/jdbg2004/PrototipoOrellanas/main/ESP32_OTA/firmware.bin",
   "sha256": "ABCDEF1234567890..."   // checksum SHA256 del binario
 }
